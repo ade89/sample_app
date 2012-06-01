@@ -20,3 +20,4 @@
 .project
 .DS_Store
 /._redcar
+bundler_stubs/
